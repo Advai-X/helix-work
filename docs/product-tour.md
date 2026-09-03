@@ -11,7 +11,7 @@ Helix Work is a macOS AI workbench built around a complete work cycle: define a 
 
 > The promotional images below use demonstration content and do not show real customer data. Exact UI details, model names, features, providers, and availability may change between releases or vary by account and region.
 
-[Download the latest release](https://github.com/Advai-X/advai-helix/releases/latest) · [Read the privacy policy](https://advai-x.github.io/advai-helix/) · [中文导览](#中文导览)
+[Download the latest release](https://github.com/Advai-X/helix-work/releases/latest) · [Visit the official website](https://helixwork.net) · [Read the privacy policy](https://advai-x.github.io/advai-helix/) · [中文导览](#中文导览)
 
 ## 1. Start with the work, not an empty chat
 
