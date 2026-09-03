@@ -2,7 +2,7 @@
 
 ## Get the latest version
 
-Download the current Universal build for Apple silicon and Intel Macs from [GitHub Releases](https://github.com/Advai-X/advai-helix/releases/latest). The direct-download build requires macOS 12 or later and is signed and notarized for macOS.
+Download the current Universal build for Apple silicon and Intel Macs from [GitHub Releases](https://github.com/Advai-X/helix-work/releases/latest), or install Helix Work from the [Mac App Store](https://apps.apple.com/app/helix-work/id6792973944). Visit the [official website](https://helixwork.net) for the product overview. The direct-download build requires macOS 12 or later and is signed and notarized for macOS.
 
 ## Before opening an issue
 
@@ -13,10 +13,10 @@ Download the current Universal build for Apple silicon and Intel Macs from [GitH
 
 ## Ask for help
 
-- [Report a bug](https://github.com/Advai-X/advai-helix/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/Advai-X/advai-helix/issues/new?template=feature_request.yml)
-- [Report provider or model compatibility](https://github.com/Advai-X/advai-helix/issues/new?template=provider_model.yml)
-- [Read the product tour](https://github.com/Advai-X/advai-helix/blob/main/docs/product-tour.md)
+- [Report a bug](https://github.com/Advai-X/helix-work/issues/new?template=bug_report.yml)
+- [Request a feature](https://github.com/Advai-X/helix-work/issues/new?template=feature_request.yml)
+- [Report provider or model compatibility](https://github.com/Advai-X/helix-work/issues/new?template=provider_model.yml)
+- [Read the product tour](https://github.com/Advai-X/helix-work/blob/main/docs/product-tour.md)
 
 When reporting a problem, include the Helix version, macOS version, Mac model or chip, installation channel, selected provider and model when relevant, reproducible steps, and the exact error message.
 

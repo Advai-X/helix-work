@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Advai-X/advai-helix/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Advai-X/advai-helix?display_name=tag&sort=semver"></a>
+  <a href="https://github.com/Advai-X/helix-work/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Advai-X/helix-work?display_name=tag&sort=semver"></a>
   <img alt="Platform: macOS" src="https://img.shields.io/badge/platform-macOS-111111?logo=apple">
   <img alt="Architecture: Universal" src="https://img.shields.io/badge/architecture-Universal-0A7F83">
 </p>
@@ -70,13 +70,13 @@ Provider access, billing, regional availability, rate limits, and individual mod
 
 ### GitHub release
 
-Download the latest notarized macOS disk image from [GitHub Releases](https://github.com/Advai-X/advai-helix/releases/latest).
+Download the latest notarized macOS disk image from [GitHub Releases](https://github.com/Advai-X/helix-work/releases/latest).
 
 The current GitHub build is a **Universal** macOS application for both **Apple silicon (`arm64`)** and **Intel (`x86_64`)** Macs. It requires **macOS 12 or later**. Only packaged application builds are distributed through Releases; source archives automatically shown by GitHub are not Helix application source code.
 
 ### Apple App Store
 
-The App Store edition is distributed separately through Apple and may become available at a different time or vary by region. Use GitHub Releases when you want the direct-download build.
+Download Helix Work from the [Mac App Store](https://apps.apple.com/app/helix-work/id6792973944). Availability may vary by region. Use GitHub Releases when you want the direct-download build.
 
 ## Install from GitHub
 
@@ -102,9 +102,11 @@ Read the complete bilingual [Privacy Policy](https://advai-x.github.io/advai-hel
 
 ## Releases and support
 
-- [Latest release](https://github.com/Advai-X/advai-helix/releases/latest)
-- [All releases](https://github.com/Advai-X/advai-helix/releases)
-- [Report a problem or request a feature](https://github.com/Advai-X/advai-helix/issues)
+- [Official website](https://helixwork.net)
+- [Mac App Store](https://apps.apple.com/app/helix-work/id6792973944)
+- [Latest release](https://github.com/Advai-X/helix-work/releases/latest)
+- [All releases](https://github.com/Advai-X/helix-work/releases)
+- [Report a problem or request a feature](https://github.com/Advai-X/helix-work/issues)
 - [Advai X on GitHub](https://github.com/Advai-X)
 
 When reporting a problem, include the Helix version, macOS version, Mac model or chip, and reproducible steps. Do not include API keys, private documents, credentials, or other sensitive data.
@@ -118,12 +120,12 @@ Helix Work 是一款面向 macOS 的 AI 工作台，将任务、项目文件、�
 - 支持 OpenAI、Anthropic、Azure OpenAI、Google Gemini、DeepSeek、阿里云百炼（DashScope）、Moonshot、OpenRouter、Z.AI、火山方舟、Ollama，以及兼容 OpenAI 接口的自定义或企业网关。
 - 可使用 GPT、Claude、Gemini、DeepSeek、Qwen、Kimi、GLM、Grok 等主流前沿模型系列，并可从供应商读取账号可用模型或按 API Model ID 添加自定义模型。
 - GitHub 当前提供 Universal 直装版本，同时支持 Apple 芯片（`arm64`）和 Intel（`x86_64`）Mac，要求 macOS 12 或更高版本。
-- 在 [Releases](https://github.com/Advai-X/advai-helix/releases/latest) 页面下载 `.dmg`，拖入“应用程序”文件夹即可安装。
+- 在 [Releases](https://github.com/Advai-X/helix-work/releases/latest) 页面下载 `.dmg`，拖入“应用程序”文件夹即可安装。
 - GitHub Release 仅发布应用构建产物；本仓库不包含 Helix 应用源码。
 - App Store 版本由 Apple 渠道独立分发，上线时间和可用地区可能不同。
 - 可通过[产品导览](docs/product-tour.md)查看真实界面、完整工作流程和主要功能。
 - 使用前请阅读完整的中英文[隐私政策](https://advai-x.github.io/advai-helix/)。
 
-如需反馈问题，请提交 [GitHub Issue](https://github.com/Advai-X/advai-helix/issues)，并避免上传密钥、私人文档或其他敏感信息。
+访问 [Helix Work 官网](https://helixwork.net)或前往 [Mac App Store](https://apps.apple.com/app/helix-work/id6792973944) 获取应用。如需反馈问题，请提交 [GitHub Issue](https://github.com/Advai-X/helix-work/issues)，并避免上传密钥、私人文档或其他敏感信息。
 
 具体模型是否可用取决于相应供应商的账号权限、地区、计费、限流和 API 开放情况。

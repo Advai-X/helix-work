@@ -4,7 +4,7 @@
 
 Please do not report security vulnerabilities in a public GitHub issue.
 
-Use [GitHub private vulnerability reporting](https://github.com/Advai-X/advai-helix/security/advisories/new) to share the issue privately with the maintainers. Include the affected Helix Work version, macOS version, reproducible steps, expected and observed behavior, and the potential impact.
+Use [GitHub private vulnerability reporting](https://github.com/Advai-X/helix-work/security/advisories/new) to share the issue privately with the maintainers. Include the affected Helix Work version, macOS version, reproducible steps, expected and observed behavior, and the potential impact.
 
 Do not include real API keys, credentials, private documents, or customer data. Use redacted examples or temporary test credentials when evidence is necessary.
 
@@ -24,4 +24,4 @@ Security reports may include issues involving:
 - unsafe handling of provider credentials;
 - vulnerabilities in bundled application components.
 
-Questions about ordinary product behavior, provider availability, or feature requests belong in [GitHub Issues](https://github.com/Advai-X/advai-helix/issues).
+Questions about ordinary product behavior, provider availability, or feature requests belong in [GitHub Issues](https://github.com/Advai-X/helix-work/issues).
